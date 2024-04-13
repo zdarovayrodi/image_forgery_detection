@@ -1,1 +1,1 @@
-# image_forgery_detection
+# Image AI-Generated face recognition
